@@ -7,6 +7,6 @@ app added:
 * zip
 * unzip
 
-lower java tsecurity
+enable TLSv1, TLSv1.1 in java
 
 tz Europe/Moscow
