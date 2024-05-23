@@ -1,4 +1,4 @@
-# jdk7-maven
+# jdk8-maven
 
 Docker image openjdk8 + maven
 Based on maven:3-openjdk-8
@@ -6,5 +6,7 @@ Based on maven:3-openjdk-8
 app added:
 * zip
 * unzip
+
+lower java tsecurity
 
 tz Europe/Moscow
