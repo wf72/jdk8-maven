@@ -9,5 +9,3 @@ Changes:
     * unzip
 
 2. Set timezone to Europe/Moscow
-
-3. Enable TLSv1, TLSv1.1 in java
